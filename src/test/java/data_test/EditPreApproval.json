@@ -1,0 +1,60 @@
+{
+	"TC_Claims_010": {
+		"userNameInput": "HMasri",
+		"passwordInput": "2023@vTEST",
+		"claimStatusDropwonValue": "Initial,Pending,Authorize,Deny,Not Used"
+	},
+	"TC_Claims_011": {
+		"userNameInput": "HMasri",
+		"passwordInput": "2023@vTEST"
+	},
+	"TC_Claims_012": {
+		"userNameInput": "HMasri",
+		"passwordInput": "2023@vTEST",
+		"newPreApprovalTitle": "NEW CLAIM"
+	},
+	"TC_Claims_013": {
+		"userNameInput": "HMasri",
+		"passwordInput": "2023@vTEST",
+		"claimStatusDropwonValue": "Initial,Pending,Authorize,Deny,Not Used"
+	},
+	"TC_Claims_014": {
+		"userNameInput": "HMasri",
+		"passwordInput": "2023@vTEST"
+	},
+	"TC_Claims_015": {
+		"userNameInput": "HMasri",
+		"passwordInput": "2023@vTEST",
+		"SearchClaimTitle": "SEARCH CLAIM"
+	},
+	"TC_Claims_004": {
+		"userNameInput": "HMasri",
+		"passwordInput": "2023@vTEST",
+		"ValidationMessage": "EDIT CLAIM |"
+	},
+	"TC_Claims_005": {
+		"userNameInput": "HMasri",
+		"passwordInput": "2023@vTEST",
+		"invalidClaimReferenceValue": "543210101",
+		"claimNotFound": "Claim not found",
+		"cannotFindClaim": "Cannot find a claim for entered claim reference number"
+	},
+	"TC_Claims_006": {
+		"userNameInput": "HMasri",
+		"passwordInput": "2023@vTEST",
+		"validClaimReferenceValue": "C0003327434",
+		"searchClaimPopupText": "Search Claim"
+	},
+	"TC_Claims_0007": {
+		"userNameInput": "HMasri",
+		"passwordInput": "2023@vTEST",
+		"validClaimReferenceValue": "C0003327434",
+		"searchClaimPopupText": "Search Claim",
+		"ValidationMessage": "NEW CLAIM"
+	},
+	"TC_Claims_008": {
+		"userNameInput": "HMasri",
+		"passwordInput": "2023@vTEST",
+		"validClaimReferenceValue": "C0003327434"
+	}
+}

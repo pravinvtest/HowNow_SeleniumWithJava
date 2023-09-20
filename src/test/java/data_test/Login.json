@@ -1,0 +1,8 @@
+{
+	"TC_Login_001": {
+		"userNameInput": "HMasri",
+		"passwordInput": "2023@vTEST",
+		"title": "TATSH",
+		"currentUrl":"https://test-tatshboportal-uae.tatsh.cloud/layout/dashboards/analytics"
+	}
+}

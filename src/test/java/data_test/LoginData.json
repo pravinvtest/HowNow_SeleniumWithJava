@@ -1,0 +1,16 @@
+{
+"TC_Login_001": {
+   "usernameCreator": "pravinkumar@vtestcorp.com",
+    "password":"Password",
+    "domain": "qa",
+    "usernameAuthor" : "pravnkumar@vtestcorp.com",
+    "email":"pravinkumar@vtestcorp.com",
+    "coursename":"abc",
+    "textforLession":"This is lesson form Vtest Group",
+    "Assginername":"Hemant Vtest",
+    "usernameAssignee": "hemant@vtestcorp.com",
+    "reviewTextt":"Excellent",
+    "UsernameForcheckingLearningTab":"Hemant Vtest",
+    "studiourl":"https://qa.hownowindia.com/studio"
+    }
+}
